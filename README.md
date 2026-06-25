@@ -1,4 +1,4 @@
-## Privet
+## Privet :stuck_out_tongue:
 
 I'm Raghav, an undergraduate student at SUTD.
 
