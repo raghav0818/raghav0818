@@ -5,14 +5,14 @@
 <text x="860" y="52" fill="#9a9aa0" font-size="15" text-anchor="end">INK RIBBONS: ∞</text>
 <rect x="40" y="74" width="820" height="52" rx="4" fill="#0f1210" stroke="#3a3f36" stroke-width="2"/>
 <text x="62" y="107" fill="#3ddc84" font-size="18">SAVE 01</text>
-<text x="200" y="107" fill="#e8e8e8" font-size="20">SUTD</text>
-<text x="320" y="107" fill="#9a9aa0" font-size="18">Computer Science &amp; Design</text>
+<text x="200" y="107" fill="#ffffff" font-size="21"><tspan stroke="#ffffff" stroke-width="0.8">SUTD</tspan></text>
+<text x="320" y="107" fill="#d0d0d4" font-size="20">Computer Science &amp; Design</text>
 <rect x="40" y="138" width="820" height="52" rx="4" fill="#0f1210" stroke="#3a3f36" stroke-width="2"/>
 <text x="62" y="171" fill="#3ddc84" font-size="18">SAVE 02</text>
-<text x="200" y="171" fill="#e8e8e8" font-size="20">AWS</text>
-<text x="320" y="171" fill="#9a9aa0" font-size="18">Certified Cloud Practitioner</text>
+<text x="200" y="171" fill="#ffffff" font-size="21"><tspan stroke="#ffffff" stroke-width="0.8">AWS</tspan></text>
+<text x="320" y="171" fill="#d0d0d4" font-size="20">Certified Cloud Practitioner</text>
 <rect x="40" y="202" width="820" height="52" rx="4" fill="#0f1210" stroke="#3a3f36" stroke-width="2"/>
 <text x="62" y="235" fill="#3ddc84" font-size="18">SAVE 03</text>
-<text x="200" y="235" fill="#e8e8e8" font-size="20">NOW</text>
-<text x="320" y="235" fill="#9a9aa0" font-size="18">Building with Python, Next.js and ESP32</text>
+<text x="200" y="235" fill="#ffffff" font-size="21"><tspan stroke="#ffffff" stroke-width="0.8">NOW</tspan></text>
+<text x="320" y="235" fill="#d0d0d4" font-size="20">Building with Python, Next.js and ESP32</text>
 </svg>
