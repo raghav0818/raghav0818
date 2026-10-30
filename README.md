@@ -170,7 +170,7 @@ Badminton (which is how ShuttleBuddy started) · LEGO · car spotting · urban e
 
 <sub>Click to examine it in GitHub's 3D viewer: drag to rotate, scroll to zoom.</sub>
 
-<a href="assets/key-item.stl"><img src="assets/key-item.svg" width="100%" alt="Key item: Umbrella hex plate, a 3D-printable model. Click to examine it in 3D."></a>
+<a href="assets/key-item.stl"><img src="assets/key-item.svg" width="100%" alt="Key item: Umbrella emblem, a 3D-printable plate. Click to examine it in 3D."></a>
 
 ---
 
