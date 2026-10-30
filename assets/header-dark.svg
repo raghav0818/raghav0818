@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230" role="img" aria-label="S.T.A.R.S. personnel file: Raghav Rajesh. Computer Science and Design at SUTD. Full-stack, cloud, hardware. AWS Certified Cloud Practitioner. Condition: Fine.">
+  <rect width="900" height="230" fill="#0b0b0d"/>
+  <rect width="900" height="6" fill="#b3121b"/>
+  <rect y="224" width="900" height="6" fill="#b3121b"/>
+  <g transform="translate(115 115)">
+    <polygon points="0,-70 60.6,-35 0,0" fill="#b3121b"/><polygon points="60.6,35 0,70 0,0" fill="#b3121b"/><polygon points="-60.6,35 -60.6,-35 0,0" fill="#b3121b"/>
+    <polygon points="60.6,-35 60.6,35 0,0" fill="#e8e8e8"/><polygon points="0,70 -60.6,35 0,0" fill="#e8e8e8"/><polygon points="-60.6,-35 0,-70 0,0" fill="#e8e8e8"/>
+    <polygon points="0,-70 60.6,-35 60.6,35 0,70 -60.6,35 -60.6,-35" fill="none" stroke="#b3121b" stroke-width="4"/>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="230" y="62" fill="#b3121b" font-size="16" letter-spacing="4">// S.T.A.R.S. PERSONNEL FILE</text>
+    <text x="230" y="116" fill="#e8e8e8" font-size="50" font-weight="bold" letter-spacing="2">RAGHAV RAJESH</text>
+    <text x="230" y="148" fill="#9a9aa0" font-size="17">Computer Science &amp; Design @ SUTD</text>
+    <text x="230" y="172" fill="#9a9aa0" font-size="17">Full-Stack · Cloud · Hardware</text>
+    <text x="230" y="200" fill="#9a9aa0" font-size="14">CONDITION:</text>
+    <text x="330" y="200" fill="#3ddc84" font-size="14" font-weight="bold">FINE</text>
+  </g>
+  <!-- static line is the fallback if the animation does not play -->
+  <polyline points="590,196 650,196 662,196 672,176 685,214 697,156 709,196 745,196 762,196 772,186 782,196 870,196" fill="none" stroke="#3ddc84" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="400" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="400" to="-400" dur="3s" repeatCount="indefinite"/>
+  </polyline>
+</svg>
